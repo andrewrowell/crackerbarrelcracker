@@ -1,4 +1,4 @@
-# Cracker Barrel peg game Cracker
+# Cracker Barrel Peg Game Cracker
 
 Ruby script that tries every possible way to solve the [triangle peg game](https://www.amazon.com/Toysmith-TSM1954-Peg-Game/dp/B004AFVKLE).
 
